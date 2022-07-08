@@ -19,8 +19,11 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
     + ML with Linear Regression: Using Linear Regression to find whether the customers are using the company's app or their website.
     
     
-    Tools: Pandas, Folium, Seaborn and Matplotlib
+    _Tools: Pandas, Folium, Seaborn and Matplotlib_
 - ### Machine Learning Projects
   + #### Python
     + Movie Recommendations using Recommender Systems: A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
+
+
+    _Tools: Pandas, Folium, Seaborn and Matplotlib_
 
