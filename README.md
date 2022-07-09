@@ -25,5 +25,5 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
     + [Movie Recommendations System](https://github.com/Karan-raj-dev/Devasena_Portfolio/blob/main/Machine%20Learning%20Projects/Movie%20Recommendation%20System.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
 
 
-    _Tools: Pandas, Folium, Seaborn and Matplotlib_
+    _Tools: Pandas, Seaborn and Matplotlib_
 
